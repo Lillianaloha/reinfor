@@ -1,0 +1,1 @@
+Designed a poker game based on the Texas Holdem poker and train it with Q-learning and double Q- learning. 
